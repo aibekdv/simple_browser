@@ -1,4 +1,4 @@
-# simple_browser
+# Simple browser using the package flutter_inappwebview
 
 A new Flutter project.
 
